@@ -1,3 +1,5 @@
+# Samurai HTML output from CLI
+
 Samurai is the tool I liked the most for analyzing thread dumps. However, the GUI was heavy and required a lot of memory when I have to correlate several thread dumps. 
 
 Generating HTML was a neat option and once processed, the browser provided all the details the thick client provded and didn't consume as much resources. However,I had to run the GUI client every time to click the generate html button. Doing it ten times in a row was a drag.
