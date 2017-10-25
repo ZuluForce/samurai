@@ -1,0 +1,6 @@
+dependencies {
+    compile 'org.apache.velocity:velocity:1.5'
+    compile 'org.projectlombok:lombok:1.14.8'
+
+    compile files("${System.getProperty('java.home')}/../lib/tools.jar")
+}
